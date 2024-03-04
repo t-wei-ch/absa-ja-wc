@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{japanese-consumer-market}
+The {J}apanese consumer market.
+\newblock
+  \url{https://www.asean.or.jp/en/wp-content/uploads/sites/3/Japan\_consumer-\_market.pdf}.
+\newblock Accessed: 2024-02-20.
+
+\bibitem{nakayama-etal-2022-large}
+Yuki Nakayama, Koji Murakami, Gautam Kumar, Sudha Bhingardive, and Ikuko
+  Hardaway.
+\newblock A large-scale {J}apanese dataset for aspect-based sentiment analysis.
+\newblock In Nicoletta Calzolari, Fr{\'e}d{\'e}ric B{\'e}chet, Philippe Blache,
+  Khalid Choukri, Christopher Cieri, Thierry Declerck, Sara Goggi, Hitoshi
+  Isahara, Bente Maegaard, Joseph Mariani, H{\'e}l{\`e}ne Mazo, Jan Odijk, and
+  Stelios Piperidis, editors, {\em Proceedings of the Thirteenth Language
+  Resources and Evaluation Conference}, pages 7014--7021, Marseille, France, 06
+  2022. European Language Resources Association.
+
+\end{thebibliography}
