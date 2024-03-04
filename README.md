@@ -18,7 +18,7 @@ Use one of the two fixes below before running `pip install requirements.txt`:
 import os
 # this explicitly tells python where to find the MeCab dictionary
 # replace with the path to the libmecab.dll if you get an error running the MeCab() instantiation below
-os.environ['MECAB_PATH']="C:/Program Files/MeCab/bin/libmecab.dll"
+os.environ['MECAB_PATH']=<path to libmecab.dll>
 # we need to force MeCab to read Japanese text in UTF-8
 os.environ['MECAB_CHARSET']='utf-8'
 ```
