@@ -59,3 +59,8 @@ This project also comes with slides and an appendix which qualitatively details 
 ## Acknowledgements
 
 I would like to thank General Assembly's class of SG-DSI-41, as without them, this project would not have been possible. Special mention goes to the instructor Waseem Sheriff, and the instructional associate Rustam Shariq. They (and the rest of the class) have been wonderful collaborators throughout the 3 months we spent together, and have been indispensible in the journey that led up to this project.
+
+## References
+
+1. Yuki Nakayama, Koji Murakami, Gautam Kumar, Sudha Bhingardive, and Ikuko Hardaway. A large-scale Japanese dataset for aspect-based sentiment analysis. In Nicoletta Calzolari, Frédéric Béchet, Philippe Blache, Khalid Choukri, Christopher Cieri, Thierry Declerck, Sara Goggi, Hitoshi Isahara, Bente Maegaard, Joseph Mariani, Hélène Mazo, Jan Odijk, and Stelios Piperidis, editors, Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 7014–7021, Marseille, France, 06 2022. European Language Resources Association
+
